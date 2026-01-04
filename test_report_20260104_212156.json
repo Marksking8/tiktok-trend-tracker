@@ -1,0 +1,278 @@
+{
+  "report_time": "2026-01-04T21:21:56.055836",
+  "summary": {
+    "total_videos": 100,
+    "total_keywords": 53,
+    "total_hashtags": 24,
+    "avg_view_count": 115595.73,
+    "avg_like_count": 7017.96
+  },
+  "top_keywords": [
+    {
+      "rank": 1,
+      "keyword": "beauty",
+      "heat_score": 6239881.1,
+      "frequency": 18,
+      "avg_engagement": 12.8869
+    },
+    {
+      "rank": 2,
+      "keyword": "see",
+      "heat_score": 6127747.6,
+      "frequency": 17,
+      "avg_engagement": 12.0354
+    },
+    {
+      "rank": 3,
+      "keyword": "need",
+      "heat_score": 5441069.6,
+      "frequency": 12,
+      "avg_engagement": 12.0622
+    },
+    {
+      "rank": 4,
+      "keyword": "transformation",
+      "heat_score": 5441069.6,
+      "frequency": 12,
+      "avg_engagement": 12.0622
+    },
+    {
+      "rank": 5,
+      "keyword": "makeup",
+      "heat_score": 4033598.2,
+      "frequency": 9,
+      "avg_engagement": 12.7407
+    },
+    {
+      "rank": 6,
+      "keyword": "gaming",
+      "heat_score": 3984064.0,
+      "frequency": 26,
+      "avg_engagement": 12.3022
+    },
+    {
+      "rank": 7,
+      "keyword": "comedy",
+      "heat_score": 3882338.6,
+      "frequency": 16,
+      "avg_engagement": 12.169
+    },
+    {
+      "rank": 8,
+      "keyword": "fitness",
+      "heat_score": 3828488.3,
+      "frequency": 16,
+      "avg_engagement": 11.9206
+    },
+    {
+      "rank": 9,
+      "keyword": "content",
+      "heat_score": 3202852.5,
+      "frequency": 19,
+      "avg_engagement": 11.5537
+    },
+    {
+      "rank": 10,
+      "keyword": "lifehack",
+      "heat_score": 2992295.5,
+      "frequency": 17,
+      "avg_engagement": 11.8897
+    },
+    {
+      "rank": 11,
+      "keyword": "diy",
+      "heat_score": 2772826.7,
+      "frequency": 17,
+      "avg_engagement": 11.6643
+    },
+    {
+      "rank": 12,
+      "keyword": "recipe",
+      "heat_score": 2749158.7,
+      "frequency": 20,
+      "avg_engagement": 11.6013
+    },
+    {
+      "rank": 13,
+      "keyword": "best",
+      "heat_score": 2428162.1,
+      "frequency": 20,
+      "avg_engagement": 12.4273
+    },
+    {
+      "rank": 14,
+      "keyword": "fashion",
+      "heat_score": 2351342.2,
+      "frequency": 18,
+      "avg_engagement": 12.8215
+    },
+    {
+      "rank": 15,
+      "keyword": "music",
+      "heat_score": 2288877.0,
+      "frequency": 17,
+      "avg_engagement": 12.4068
+    },
+    {
+      "rank": 16,
+      "keyword": "Incredible",
+      "heat_score": 2233797.2,
+      "frequency": 13,
+      "avg_engagement": 12.7604
+    },
+    {
+      "rank": 17,
+      "keyword": "skills",
+      "heat_score": 2233797.2,
+      "frequency": 13,
+      "avg_engagement": 12.7604
+    },
+    {
+      "rank": 18,
+      "keyword": "tech",
+      "heat_score": 2077892.4,
+      "frequency": 13,
+      "avg_engagement": 11.5917
+    },
+    {
+      "rank": 19,
+      "keyword": "Check",
+      "heat_score": 2069718.5,
+      "frequency": 11,
+      "avg_engagement": 11.3162
+    },
+    {
+      "rank": 20,
+      "keyword": "out",
+      "heat_score": 2069718.5,
+      "frequency": 11,
+      "avg_engagement": 11.3162
+    }
+  ],
+  "top_hashtags": [
+    {
+      "rank": 1,
+      "hashtag": "art",
+      "count": 24
+    },
+    {
+      "rank": 2,
+      "hashtag": "gaming",
+      "count": 23
+    },
+    {
+      "rank": 3,
+      "hashtag": "education",
+      "count": 18
+    },
+    {
+      "rank": 4,
+      "hashtag": "fashion",
+      "count": 18
+    },
+    {
+      "rank": 5,
+      "hashtag": "recipe",
+      "count": 17
+    },
+    {
+      "rank": 6,
+      "hashtag": "fyp",
+      "count": 17
+    },
+    {
+      "rank": 7,
+      "hashtag": "beauty",
+      "count": 17
+    },
+    {
+      "rank": 8,
+      "hashtag": "diy",
+      "count": 16
+    },
+    {
+      "rank": 9,
+      "hashtag": "pets",
+      "count": 15
+    },
+    {
+      "rank": 10,
+      "hashtag": "comedy",
+      "count": 15
+    },
+    {
+      "rank": 11,
+      "hashtag": "sports",
+      "count": 15
+    },
+    {
+      "rank": 12,
+      "hashtag": "trending",
+      "count": 15
+    },
+    {
+      "rank": 13,
+      "hashtag": "music",
+      "count": 15
+    },
+    {
+      "rank": 14,
+      "hashtag": "fitness",
+      "count": 14
+    },
+    {
+      "rank": 15,
+      "hashtag": "tutorial",
+      "count": 14
+    },
+    {
+      "rank": 16,
+      "hashtag": "dance",
+      "count": 14
+    },
+    {
+      "rank": 17,
+      "hashtag": "tech",
+      "count": 14
+    },
+    {
+      "rank": 18,
+      "hashtag": "travel",
+      "count": 14
+    },
+    {
+      "rank": 19,
+      "hashtag": "lifehack",
+      "count": 12
+    },
+    {
+      "rank": 20,
+      "hashtag": "tiktok",
+      "count": 12
+    }
+  ],
+  "video_stats": {
+    "total_videos": 100,
+    "avg_heat_score": 153514.99,
+    "max_heat_score": 2205894.0,
+    "min_heat_score": 1830.0,
+    "avg_engagement_rate": 12.1157,
+    "high_quality_count": 77
+  },
+  "heat_distribution": {
+    "labels": [
+      "0-50K",
+      "50K-100K",
+      "100K-500K",
+      "500K-1M",
+      "1M+"
+    ],
+    "values": [
+      68,
+      14,
+      9,
+      7,
+      2
+    ]
+  }
+}
